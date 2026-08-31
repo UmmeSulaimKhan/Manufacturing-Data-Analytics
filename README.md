@@ -70,3 +70,10 @@ The primary objective of this project is to transform raw manufacturing data int
 * Data Visualization
 * KPI Analysis
 * Business Insights
+* ## 📊 Power BI Dashboard
+
+![Power BI Dashboard](Screenshots/Manufacturing_Power%20BI_Dashboard.png)
+
+## 📈 Tableau Dashboard
+
+![Tableau Dashboard](Screenshots/Tableau%20Dashboard%20Manufacture.png)
