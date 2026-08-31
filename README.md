@@ -72,7 +72,7 @@ The primary objective of this project is to transform raw manufacturing data int
 * Business Insights
 * ## 📊 Power BI Dashboard
 
-![Power BI Dashboard](Screenshots/Manufacturing_Power%20BI_Dashboard.png)
+![Power BI Dashboard](Screenshots/Manufacturing_Power%20BI%20_Dashboard.png)
 
 ## 📈 Tableau Dashboard
 
